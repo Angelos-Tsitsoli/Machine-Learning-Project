@@ -35,6 +35,30 @@ Implementation of the algorithm in Python also using the images from faces direc
 # Assignment #2
 
 ## Feedforward Neural Network
+- Load data (mfccs)
+- Ορισμός Νευρωνικού Δικτύου
+- Define training process
+- Definition of evaluation process
+- Network training
+- Network training with GPU
+- Model selection
 
+## Convolutional Neural Network 
+- Loading data
+- Definition of Neural Network
+- Network training
+- Pooling and padding
+- Activation functions
+
+## Improving Performance
+- Reproducibility
+- Optimization algorithms
+- Batch Normalization
+- Regularization
+
+## Testing
+-  Inference
+-  Download music from youtube
+-  Predictions for the above
 
 
