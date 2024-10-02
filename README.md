@@ -26,3 +26,9 @@ $$
 
 
 Implementation in Python and running of the Gradient Descent algorithm for some cases with the above information.
+
+
+## Face recognition(using Eigenfaces)
+Implementation of the algorithm in Python also using the images from faces directory.
+
+
