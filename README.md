@@ -32,3 +32,9 @@ Implementation in Python and running of the Gradient Descent algorithm for some 
 Implementation of the algorithm in Python also using the images from faces directory. After the implementation solve different cases.
 
 
+# Assignment #2
+
+## Feedforward Neural Network
+
+
+
